@@ -12,7 +12,7 @@ This is a [Next.js](https://nextjs.org/) template bootstrapped with [`create-nex
 First, download the template:
 
 ```bash
-yarn create next-app account-kit-app -e https://github.com/avarobinson/account-kit-quickstart
+yarn create next-app account-kit-app -e https://github.com/Shenghu-Yang/account-kit-quickstart
 ```
 
 ### Get you alchemy api key
